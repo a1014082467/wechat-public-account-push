@@ -6,8 +6,7 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "
-wx4f06b23dcbb535ed",
+  APP_ID: "wx4f06b23dcbb535ed",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
@@ -65,7 +64,7 @@ wx4f06b23dcbb535ed",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oxv-76d9FF2p04U6vRGnCqveTe94",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	TRZCF4rgKY8H0r2xq3_WBg_mVCAp8lHhyNamCPg3v0s",
+      useTemplateId: "TRZCF4rgKY8H0r2xq3_WBg_mVCAp8lHhyNamCPg3v0s",
       // 所在省份
       province: "上海",
       // 所在城市
@@ -119,8 +118,7 @@ wx4f06b23dcbb535ed",
       festivals: [],
       customizedDateList: []
     },
-    {
-    
+   
     // 你可以不断按格式往下增加
     // ...
   ],
